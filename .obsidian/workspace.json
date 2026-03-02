@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试-public.md",
+                "file": "二次测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试-public"
+              "title": "二次测试"
             }
           }
         ]
@@ -183,9 +183,10 @@
   },
   "active": "71a36789bdec4cda",
   "lastOpenFiles": [
+    "测试-public.md",
+    "二次测试.md",
     "assets/测试-public/file-20260303004112017.png",
     "assets/测试-public",
-    "assets",
-    "测试-public.md"
+    "assets"
   ]
 }
